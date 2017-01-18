@@ -1,2 +1,6 @@
 # BirthdateSignsThatGotNothingToDoWithYourLife
 My first commit! :v
+
+This is a redo of one of my work in activity in Web Development class. This simple project/activity calculates and displays different signs related on your birthday...
+
+P.S. Aesthetics is not included yet! Hoping to add it soon...
